@@ -15,11 +15,11 @@ pip = https://pypi.org/project/pip/
 
 #Usage
 
-Once all the installation is done you only need to run the program youpy.py with the input link
+Once all the installation is done you only need to run the program trough command prompt(cmd) writing youpy.py with the input link
 
 Example: youpy.py --pathIn Link-here
 
-otherwise you can just run the program and later enter your youtube link.
+Otherwise you can just run the program and later enter your youtube link.
 
 The python program accepts single videos and list of videos.
 
