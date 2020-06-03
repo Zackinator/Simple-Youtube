@@ -23,4 +23,7 @@ Otherwise you can just run the program and later enter your youtube link.
 
 The python program accepts single videos and list of videos.
 
-The download path is in the same folder as the program, you can change this in the program script.
+The download path is in the same folder as the program
+
+Note: I am not the creator of the youtube_dl module, here is the link to the creator
+https://pypi.org/project/youtube_dl/
